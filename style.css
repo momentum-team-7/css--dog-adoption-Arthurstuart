@@ -1,0 +1,37 @@
+ /* -----------------------------------------
+   HEADER
+----------------------------------------- */
+.banner {
+    color: #004175;
+    border-color: 89DEEF;
+    border-style: solid;
+    width: 100%;
+    height: 80px;
+    margin-top: 40%;
+    margin-bottom: 40%;
+
+}
+
+ /* -----------------------------------------
+   BODY OF THE PAGE
+----------------------------------------- */
+.Dogs {
+    width: 200px;
+    height: 200px;
+    align-content: space-around;
+    display: flexbox;
+
+}
+
+.Dog-tags li {
+display: inline;
+background-color: skyblue;
+width: fit-content;
+list-style: none;
+
+}
+
+.Tag-Hover {
+        background-color: gold;
+
+}
